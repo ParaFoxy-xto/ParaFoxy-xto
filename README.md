@@ -12,7 +12,7 @@ Sou **Desenvolvedor de Software** com paixão por criar soluções inovadoras e 
 
 - **Tribunal de Contas do Distrito Federal (TCDF)** - Desenvolvedor Fullstack Python (Jan/2024 - Presente)
   - Desenvolvimento de APIs RESTful e interfaces responsivas.
-  - Automação de sistemas com Docker e AWS.
+  - Desenvolvimento de ferramentas OCR e de automação.
 
 - **Elfotec** - Desenvolvedor Backend (Jun/2022 - Jan/2023)
   - Criação de APIs e serviços backend com JHipster e contêineres Docker.
